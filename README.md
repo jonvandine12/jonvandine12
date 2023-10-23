@@ -11,7 +11,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- Active Directory Home Lab (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 

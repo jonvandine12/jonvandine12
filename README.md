@@ -15,7 +15,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
--[LinkedIn](linkedin.com/in/jonvandinetech)
+-[LinkedIn](https://linkedin.com/in/jonvandinetech)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
